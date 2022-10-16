@@ -1,2 +1,2 @@
 # Dart-Experiements
- Experimentos na liguagem Dart para meu aprendizado
+ Experimentos na linguagem Dart para meu aprendizado
