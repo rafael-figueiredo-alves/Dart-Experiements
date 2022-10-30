@@ -2,7 +2,7 @@ import 'dart:io';
 import 'MyFunctions.dart';
 
 main() {
-  print("\x1B[2J\x1B[0;0H");
+  LimparTela();
   print('===============================================================');
   print('########      CALCULADORA DE IMC                   ############');
   print('===============================================================');
